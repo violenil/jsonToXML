@@ -1,0 +1,680 @@
+<movie>
+	<title>Cold War</title>
+	<actors>
+		<actor>Joanna Kulig</actor>
+		<actor>Tomasz Kot</actor>
+		<actor>Borys Szyc</actor>
+		<actor>Agata Kulesza</actor>
+		<actor>Cédric Kahn</actor>
+		<actor>Jeanne Balibar</actor>
+	</actors>
+<movie>
+	<title>The Salesman</title>
+	<actors>
+		<actor>Shahab Hosseini</actor>
+		<actor>Taraneh Alidoosti</actor>
+	</actors>
+<movie>
+	<title>Paterson</title>
+	<actors>
+		<actor>Adam Driver</actor>
+		<actor>Golshifteh Farahani</actor>
+		<actor>Barry Shabaka Henley</actor>
+		<actor>Cliff Smith</actor>
+		<actor>Chasten Harmon</actor>
+		<actor>William Jackson Harper</actor>
+		<actor>Masatoshi Nagase</actor>
+	</actors>
+<movie>
+	<title>The Square</title>
+	<actors>
+		<actor>Claes Bang</actor>
+		<actor>Elisabeth Moss</actor>
+		<actor>Dominic West</actor>
+		<actor>Terry Notary</actor>
+	</actors>
+<movie>
+	<title>Three Billboards Outside Ebbing, Missouri</title>
+	<actors>
+		<actor>Frances McDormand</actor>
+		<actor>Woody Harrelson</actor>
+		<actor>Sam Rockwell</actor>
+		<actor>Abbie Cornish</actor>
+		<actor>John Hawkes</actor>
+		<actor>Peter Dinklage</actor>
+	</actors>
+<movie>
+	<title>The Florida Project</title>
+	<actors>
+		<actor>Willem Dafoe</actor>
+		<actor>Brooklynn Prince</actor>
+		<actor>Bria Vinaite</actor>
+		<actor>Valeria Cotto</actor>
+		<actor>Christopher Rivera</actor>
+		<actor>Caleb Landry Jones</actor>
+	</actors>
+<movie>
+	<title>Frantz</title>
+	<actors>
+		<actor>Pierre Niney</actor>
+		<actor>Paula Beer</actor>
+	</actors>
+<movie>
+	<title>Joker</title>
+	<actors>
+		<actor>Joaquin Phoenix</actor>
+	</actors>
+<movie>
+	<title>Youth</title>
+	<actors>
+		<actor>Michael Caine</actor>
+		<actor>Harvey Keitel</actor>
+		<actor>Rachel Weisz</actor>
+		<actor>Paul Dano</actor>
+		<actor>Jane Fonda</actor>
+	</actors>
+<movie>
+	<title>Spotlight</title>
+	<actors>
+		<actor>Mark Ruffalo</actor>
+		<actor>Michael Keaton</actor>
+		<actor>Rachel McAdams</actor>
+		<actor>Liev Schreiber</actor>
+		<actor>John Slattery</actor>
+		<actor>Stanley Tucci</actor>
+	</actors>
+<movie>
+	<title>Our Little Sister</title>
+	<actors>
+		<actor>Haruka Ayase</actor>
+		<actor>Masami Nagasawa</actor>
+		<actor>Kaho</actor>
+		<actor>Suzu Hirose</actor>
+	</actors>
+<movie>
+	<title>Clergy</title>
+	<actors>
+		<actor>Arkadiusz Jakubik</actor>
+		<actor>Robert Wieckiewicz</actor>
+		<actor>Jacek Braciak</actor>
+	</actors>
+<movie>
+	<title>3 Days in Quiberon</title>
+	<actors>
+		<actor>Marie Bäumer</actor>
+		<actor>Birgit Minichmayr</actor>
+		<actor>Charly Hübner</actor>
+		<actor>Robert Gwisdek</actor>
+	</actors>
+<movie>
+	<title>Mug</title>
+	<actors>
+		<actor>Mateusz Kościukiewicz</actor>
+	</actors>
+<movie>
+	<title>Ana, mon amour</title>
+	<actors>
+		<actor>Mircea Postelnicu</actor>
+	</actors>
+<movie>
+	<title>1945</title>
+	<actors>
+		<actor>Péter Rudolf</actor>
+		<actor>Tamás Szabó Kimmel</actor>
+		<actor>Dóra Sztarenki</actor>
+		<actor>Bence Tasnádi</actor>
+	</actors>
+<movie>
+	<title>I, Daniel Blake</title>
+	<actors>
+		<actor>Dave Johns</actor>
+		<actor>Hayley Squires</actor>
+	</actors>
+<movie>
+	<title>Pain and Glory</title>
+	<actors>
+		<actor>Antonio Banderas</actor>
+		<actor>Asier Etxeandia</actor>
+		<actor>Leonardo Sbaraglia</actor>
+		<actor>Nora Navas</actor>
+		<actor>Julieta Serrano</actor>
+		<actor>Penélope Cruz</actor>
+	</actors>
+<movie>
+	<title>Taxi</title>
+	<actors>
+		<actor>on</actor>
+	</actors>
+<movie>
+	<title>Julieta</title>
+	<actors>
+		<actor>Emma Suárez</actor>
+		<actor>Adriana Ugarte</actor>
+	</actors>
+<movie>
+	<title>The Irishman</title>
+	<actors>
+		<actor>Robert De Niro</actor>
+		<actor>Al Pacino</actor>
+		<actor>Joe Pesci</actor>
+	</actors>
+<movie>
+	<title>Never Look Away</title>
+	<actors>
+		<actor>Tom Schilling</actor>
+		<actor>Sebastian Koch</actor>
+		<actor>Paula Beer</actor>
+	</actors>
+<movie>
+	<title>Call Me by Your Name</title>
+	<actors>
+		<actor>Armie Hammer</actor>
+		<actor>Timothée Chalamet</actor>
+		<actor>Michael Stuhlbarg</actor>
+		<actor>Amira Casar</actor>
+		<actor>Esther Garrel</actor>
+		<actor>Victoire Du Bois</actor>
+	</actors>
+<movie>
+	<title>So Long, My Son</title>
+	<actors>
+		<actor>Wang Jingchun</actor>
+		<actor>Yong Mei</actor>
+		<actor>Qi Xi</actor>
+		<actor>Roy Wang</actor>
+		<actor>Du Jiang</actor>
+		<actor>Ai Liya</actor>
+		<actor>Xu Cheng</actor>
+		<actor>Li Jingjing</actor>
+		<actor>Zhao Yanguozhang</actor>
+	</actors>
+<movie>
+	<title>Close-Knit</title>
+	<actors>
+		<actor>Toma Ikuta</actor>
+		<actor>Kenta Kiritani</actor>
+		<actor>Rie Mimura</actor>
+		<actor>Eiko Koike</actor>
+		<actor>Mugi Kadowaki</actor>
+	</actors>
+<movie>
+	<title>Trumbo</title>
+	<actors>
+		<actor>Bryan Cranston</actor>
+		<actor>Adewale Akinnuoye-Agbaje</actor>
+		<actor>Louis C.K.</actor>
+		<actor>David James Elliott</actor>
+		<actor>Elle Fanning</actor>
+		<actor>John Goodman</actor>
+		<actor>Diane Lane</actor>
+		<actor>Michael Stuhlbarg</actor>
+		<actor>Alan Tudyk</actor>
+		<actor>Helen Mirren</actor>
+	</actors>
+<movie>
+	<title>In the Fade</title>
+	<actors>
+		<actor>Diane Kruger</actor>
+	</actors>
+<movie>
+	<title>Portrait of a Lady on Fire</title>
+	<actors>
+		<actor>Noémie Merlant</actor>
+		<actor>Adèle Haenel</actor>
+	</actors>
+<movie>
+	<title>The Danish Girl</title>
+	<actors>
+		<actor>Eddie Redmayne</actor>
+		<actor>Alicia Vikander</actor>
+		<actor>Ben Whishaw</actor>
+		<actor>Sebastian Koch</actor>
+		<actor>Amber Heard</actor>
+		<actor>Matthias Schoenaerts</actor>
+	</actors>
+<movie>
+	<title>Room</title>
+	<actors>
+		<actor>Brie Larson</actor>
+		<actor>Jacob Tremblay</actor>
+		<actor>Joan Allen</actor>
+		<actor>Sean Bridgers</actor>
+		<actor>William H. Macy</actor>
+	</actors>
+<movie>
+	<title>A Wedding</title>
+	<actors>
+		<actor>Lina El Arabi</actor>
+	</actors>
+<movie>
+	<title>I'm a Killer</title>
+	<actors>
+		<actor>Mirosław Haniszewski</actor>
+		<actor>Arkadiusz Jakubik</actor>
+		<actor>Agata Kulesza</actor>
+		<actor>Magdalena Popławska</actor>
+		<actor>Piotr Adamczyk</actor>
+		<actor>Karolina Staniec</actor>
+	</actors>
+<movie>
+	<title>Land of Mine</title>
+	<actors>
+		<actor>Roland Møller</actor>
+		<actor>Mikkel Følsgaard</actor>
+	</actors>
+<movie>
+	<title>Afterimage</title>
+	<actors>
+		<actor>Bogusław Linda</actor>
+	</actors>
+<movie>
+	<title>Moonlight</title>
+	<actors>
+		<actor>Trevante Rhodes</actor>
+		<actor>André Holland</actor>
+		<actor>Janelle Monáe</actor>
+		<actor>Ashton Sanders</actor>
+		<actor>Jharrel Jerome</actor>
+		<actor>Naomie Harris</actor>
+		<actor>Mahershala Ali</actor>
+	</actors>
+<movie>
+	<title>An Officer and a Spy</title>
+	<actors>
+		<actor>Jean Dujardin</actor>
+		<actor>Louis Garrel</actor>
+		<actor>Emmanuelle Seigner</actor>
+		<actor>Grégory Gadebois</actor>
+	</actors>
+<movie>
+	<title>Bridge of Spies</title>
+	<actors>
+		<actor>Tom Hanks</actor>
+		<actor>Mark Rylance</actor>
+		<actor>Amy Ryan</actor>
+		<actor>Alan Alda</actor>
+	</actors>
+<movie>
+	<title>Amy</title>
+	<actors>
+		<actor>Amy Winehouse</actor>
+	</actors>
+<movie>
+	<title>Mr. Jones</title>
+	<actors>
+		<actor>James Norton</actor>
+		<actor>Vanessa Kirby</actor>
+		<actor>Peter Sarsgaard</actor>
+	</actors>
+<movie>
+	<title>The People vs. Fritz Bauer</title>
+	<actors>
+		<actor>Burghart Klaußner</actor>
+	</actors>
+<movie>
+	<title>Steve Jobs</title>
+	<actors>
+		<actor>Michael Fassbender</actor>
+		<actor>Kate Winslet</actor>
+		<actor>Seth Rogen</actor>
+		<actor>Jeff Daniels</actor>
+	</actors>
+<movie>
+	<title>Fog in August</title>
+	<actors>
+		<actor>Sebastian Koch</actor>
+	</actors>
+<movie>
+	<title>Nocturnal Animals</title>
+	<actors>
+		<actor>Amy Adams</actor>
+		<actor>Jake Gyllenhaal</actor>
+		<actor>Michael Shannon</actor>
+		<actor>Aaron Taylor-Johnson</actor>
+		<actor>Isla Fisher</actor>
+		<actor>Armie Hammer</actor>
+		<actor>Laura Linney</actor>
+		<actor>Andrea Riseborough</actor>
+		<actor>Michael Sheen</actor>
+	</actors>
+<movie>
+	<title>Arrhythmia</title>
+	<actors>
+		<actor>Aleksandr Yatsenko</actor>
+		<actor>Irina Gorbacheva</actor>
+	</actors>
+<movie>
+	<title>The Innocents</title>
+	<actors>
+		<actor>Lou de Laâge</actor>
+		<actor>Agata Kulesza</actor>
+		<actor>Agata Buzek</actor>
+		<actor>Vincent Macaigne</actor>
+	</actors>
+<movie>
+	<title>Dovlatov</title>
+	<actors>
+		<actor>Milan Marić</actor>
+		<actor>Danila Kozlovsky</actor>
+		<actor>Helena Sujecka</actor>
+		<actor>Artur Beschastny</actor>
+		<actor>Anton Shagin</actor>
+		<actor>Svetlana Khodchenkova</actor>
+		<actor>Elena Lyadova</actor>
+	</actors>
+<movie>
+	<title>13 Minutes</title>
+	<actors>
+		<actor>Christian Friedel</actor>
+	</actors>
+<movie>
+	<title>Piranhas</title>
+	<actors>
+		<actor>No stars.</actor>
+	</actors>
+<movie>
+	<title>Body</title>
+	<actors>
+		<actor>Janusz Gajos</actor>
+	</actors>
+<movie>
+	<title>Ingrid Bergman In Her Own Words</title>
+	<actors>
+		<actor>No stars.</actor>
+	</actors>
+<movie>
+	<title>The Last Family</title>
+	<actors>
+		<actor>Andrzej Seweryn</actor>
+		<actor>Dawid Ogrodnik</actor>
+	</actors>
+<movie>
+	<title>Manchester by the Sea</title>
+	<actors>
+		<actor>Casey Affleck</actor>
+		<actor>Michelle Williams</actor>
+		<actor>Kyle Chandler</actor>
+		<actor>Lucas Hedges</actor>
+	</actors>
+<movie>
+	<title>Toni Erdmann</title>
+	<actors>
+		<actor>Peter Simonischek</actor>
+		<actor>Sandra Hüller</actor>
+		<actor>Ingrid Bisu</actor>
+		<actor>Michael Wittenborn</actor>
+		<actor>Thomas Loibl</actor>
+		<actor>Trystan Pütter</actor>
+		<actor>Hadewych Minis</actor>
+		<actor>Lucy Russell</actor>
+		<actor>Vlad Ivanov</actor>
+		<actor>Victoria Cocias</actor>
+	</actors>
+<movie>
+	<title>Retablo</title>
+	<actors>
+		<actor>Magaly Solier</actor>
+	</actors>
+<movie>
+	<title>24 Weeks</title>
+	<actors>
+		<actor>Julia Jentsch</actor>
+	</actors>
+<movie>
+	<title>The Martian</title>
+	<actors>
+		<actor>Matt Damon</actor>
+		<actor>Jessica Chastain</actor>
+		<actor>Kristen Wiig</actor>
+		<actor>Jeff Daniels</actor>
+		<actor>Michael Peña</actor>
+		<actor>Kate Mara</actor>
+		<actor>Sean Bean</actor>
+		<actor>Sebastian Stan</actor>
+		<actor>Aksel Hennie</actor>
+		<actor>Benedict Wong</actor>
+		<actor>Donald Glover</actor>
+		<actor>Chiwetel Ejiofor</actor>
+	</actors>
+<movie>
+	<title>The Second Mother</title>
+	<actors>
+		<actor>Regina Casé</actor>
+		<actor>Michel Joelsas</actor>
+		<actor>Camila Márdila</actor>
+	</actors>
+<movie>
+	<title>The Hateful Eight</title>
+	<actors>
+		<actor>Samuel L. Jackson</actor>
+		<actor>Kurt Russell</actor>
+		<actor>Jennifer Jason Leigh</actor>
+		<actor>Walton Goggins</actor>
+		<actor>Demián Bichir</actor>
+		<actor>Tim Roth</actor>
+		<actor>Michael Madsen</actor>
+		<actor>Bruce Dern</actor>
+		<actor>James Parks</actor>
+		<actor>Channing Tatum</actor>
+	</actors>
+<movie>
+	<title>Son of Saul</title>
+	<actors>
+		<actor>Géza Röhrig</actor>
+		<actor>Levente Molnár</actor>
+		<actor>Urs Rechn</actor>
+	</actors>
+<movie>
+	<title>The Big Short</title>
+	<actors>
+		<actor>Christian Bale</actor>
+		<actor>Steve Carell</actor>
+		<actor>Ryan Gosling</actor>
+		<actor>Brad Pitt</actor>
+	</actors>
+<movie>
+	<title>Mustang</title>
+	<actors>
+		<actor>Elit İşcan</actor>
+	</actors>
+<movie>
+	<title>On Body and Soul</title>
+	<actors>
+		<actor>Géza Morcsányi</actor>
+		<actor>Alexandra Borbély</actor>
+	</actors>
+<movie>
+	<title>Cross My Heart</title>
+	<actors>
+		<actor>Clare Coulter</actor>
+		<actor>Julie Ménard</actor>
+	</actors>
+<movie>
+	<title>Loving Vincent</title>
+	<actors>
+		<actor>Robert Gulaczyk</actor>
+		<actor>Douglas Booth</actor>
+		<actor>Jerome Flynn</actor>
+		<actor>Saoirse Ronan</actor>
+		<actor>Helen McCrory</actor>
+		<actor>Chris O'Dowd</actor>
+		<actor>John Sessions</actor>
+		<actor>Eleanor Tomlinson</actor>
+		<actor>Aidan Turner</actor>
+	</actors>
+<movie>
+	<title>Carol</title>
+	<actors>
+		<actor>Cate Blanchett</actor>
+		<actor>Rooney Mara</actor>
+		<actor>Sarah Paulson</actor>
+		<actor>Jake Lacy</actor>
+		<actor>Kyle Chandler</actor>
+	</actors>
+<movie>
+	<title>Fences</title>
+	<actors>
+		<actor>Denzel Washington</actor>
+		<actor>Viola Davis</actor>
+		<actor>Stephen McKinley Henderson</actor>
+		<actor>Jovan Adepo</actor>
+		<actor>Russell Hornsby</actor>
+		<actor>Mykelti Williamson</actor>
+		<actor>Saniyya Sidney</actor>
+	</actors>
+<movie>
+	<title>Snowden</title>
+	<actors>
+		<actor>Joseph Gordon-Levitt</actor>
+		<actor>Shailene Woodley</actor>
+		<actor>Melissa Leo</actor>
+		<actor>Zachary Quinto</actor>
+		<actor>Tom Wilkinson</actor>
+		<actor>Scott Eastwood</actor>
+		<actor>Logan Marshall-Green</actor>
+		<actor>Timothy Olyphant</actor>
+		<actor>Ben Schnetzer</actor>
+		<actor>LaKeith Lee Stanfield</actor>
+		<actor>Rhys Ifans</actor>
+		<actor>Nicolas Cage</actor>
+	</actors>
+<movie>
+	<title>Lion</title>
+	<actors>
+		<actor>Dev Patel</actor>
+		<actor>Rooney Mara</actor>
+		<actor>David Wenham</actor>
+		<actor>Nicole Kidman</actor>
+		<actor>Abhishek Bharate</actor>
+		<actor>Divian Ladwa</actor>
+		<actor>Priyanka Bose</actor>
+		<actor>Deepti Naval</actor>
+		<actor>Tannishtha Chatterjee</actor>
+		<actor>Nawazuddin Siddiqui</actor>
+		<actor>Sunny Pawar</actor>
+	</actors>
+<movie>
+	<title>Summer 1993</title>
+	<actors>
+		<actor>Laia Artigas</actor>
+	</actors>
+<movie>
+	<title>American Honey</title>
+	<actors>
+		<actor>Sasha Lane</actor>
+		<actor>Shia LaBeouf</actor>
+		<actor>Riley Keough</actor>
+	</actors>
+<movie>
+	<title>Roma</title>
+	<actors>
+		<actor>Yalitza Aparicio</actor>
+		<actor>Marina de Tavira</actor>
+	</actors>
+<movie>
+	<title>The Death of Louis XIV</title>
+	<actors>
+		<actor>Jean-Pierre Léaud</actor>
+	</actors>
+<movie>
+	<title>Once Upon a Time in Hollywood</title>
+	<actors>
+		<actor>Leonardo DiCaprio</actor>
+		<actor>Brad Pitt</actor>
+		<actor>Margot Robbie</actor>
+		<actor>Emile Hirsch</actor>
+		<actor>Margaret Qualley</actor>
+		<actor>Timothy Olyphant</actor>
+		<actor>Austin Butler</actor>
+		<actor>Dakota Fanning</actor>
+		<actor>Bruce Dern</actor>
+		<actor>Al Pacino</actor>
+	</actors>
+<movie>
+	<title>The Post</title>
+	<actors>
+		<actor>Meryl Streep</actor>
+		<actor>Tom Hanks</actor>
+		<actor>Sarah Paulson</actor>
+		<actor>Bob Odenkirk</actor>
+		<actor>Tracy Letts</actor>
+		<actor>Bradley Whitford</actor>
+		<actor>Bruce Greenwood</actor>
+		<actor>Matthew Rhys</actor>
+	</actors>
+<movie>
+	<title>The Shape of Water</title>
+	<actors>
+		<actor>Sally Hawkins</actor>
+		<actor>Michael Shannon</actor>
+		<actor>Richard Jenkins</actor>
+		<actor>Doug Jones</actor>
+		<actor>Michael Stuhlbarg</actor>
+		<actor>Octavia Spencer</actor>
+	</actors>
+<movie>
+	<title>Bohemian Rhapsody</title>
+	<actors>
+		<actor>Rami Malek</actor>
+		<actor>Lucy Boynton</actor>
+		<actor>Gwilym Lee</actor>
+		<actor>Ben Hardy</actor>
+		<actor>Joe Mazzello</actor>
+		<actor>Aidan Gillen</actor>
+		<actor>Allen Leech</actor>
+		<actor>Tom Hollander</actor>
+		<actor>Mike Myers</actor>
+	</actors>
+<movie>
+	<title>Remember</title>
+	<actors>
+		<actor>Christopher Plummer</actor>
+		<actor>Bruno Ganz</actor>
+		<actor>Jürgen Prochnow</actor>
+		<actor>Heinz Lieven</actor>
+		<actor>Henry Czerny</actor>
+		<actor>Dean Norris</actor>
+		<actor>Martin Landau</actor>
+	</actors>
+<movie>
+	<title>Wind River</title>
+	<actors>
+		<actor>Jeremy Renner</actor>
+		<actor>Elizabeth Olsen</actor>
+	</actors>
+<movie>
+	<title>Arrival</title>
+	<actors>
+		<actor>Amy Adams</actor>
+		<actor>Jeremy Renner</actor>
+		<actor>Forest Whitaker</actor>
+		<actor>Michael Stuhlbarg</actor>
+		<actor>Tzi Ma</actor>
+	</actors>
+<movie>
+	<title>If Beale Street Could Talk</title>
+	<actors>
+		<actor>KiKi Layne</actor>
+		<actor>Stephan James</actor>
+		<actor>Colman Domingo</actor>
+		<actor>Teyonah Parris</actor>
+		<actor>Michael Beach</actor>
+		<actor>Dave Franco</actor>
+		<actor>Diego Luna</actor>
+		<actor>Pedro Pascal</actor>
+		<actor>Ed Skrein</actor>
+		<actor>Brian Tyree Henry</actor>
+		<actor>Regina King</actor>
+	</actors>
+<movie>
+	<title>Sweet Bean</title>
+	<actors>
+		<actor>Kirin Kiki</actor>
+	</actors>
+<movie>
+	<title>Summertime</title>
+	<actors>
+		<actor>Cécile de France</actor>
+		<actor>Izïa Higelin</actor>
+		<actor>Noémie Lvovsky</actor>
+	</actors>

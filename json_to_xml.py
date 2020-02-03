@@ -15,6 +15,7 @@ with open('movieData.xml', 'w') as output:
         for r in m["Release_dates"]:
             output.write("\t<release>" + r + "</release>\n")
         if type(m["Plot"]) == str:
-            output.write("\t<plot>\n" + m["Plot"] + "\n</plot>\n")
+            output.write("\t<plot>\n" + m["Plot"] + "\n\t</plot>\n")
+        output.write("</movie>\n")
 
 output.close()

@@ -1,8 +1,8 @@
-<!ELEMENT movie (director, release+, star*, plot?)>
+<!ELEMENT movies (movie+)>
+<!ELEMENT movie (title, actors*, director, release+, plot?)>
+<!ELEMENT title (#PCDATA)>
 <!ELEMENT director (#PCDATA)>
-<!ELEMENT release (date, place)>
-<!ELEMENT star (#PCDATA)>
+<!ELEMENT release (#PCDATA)>
+<!ELEMENT actors (actor*)>
 <!ELEMENT plot (#PCDATA)>
-<!ELEMENT date (#PCDATA)>
-<!ELEMENT place (#PCDATA)>
-<!ATTLIST movie title CDATA #REQUIRED>
+<!ELEMENT actor (#PCDATA)>
